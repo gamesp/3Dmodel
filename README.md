@@ -1,5 +1,5 @@
 
-![Pi GAMESP Robot](completo.png)
+## Pi GAMESP Robot(completo.png)
 
 ## Catalog
 
@@ -11,11 +11,13 @@
 
 - Images mounting Process and connections
 
+## Wheels
+
 - Left wheel [wheel-l.stl](/rafacouto/3d-escornabot/brivoi-compactus/wheel-l.stl)
 
--Right wheel [wheel-r.stl](/rafacouto/3d-escornabot/brivoi-compactus/wheel-r.stl)
-  Original design by [Xoan Sampaiño][XOA01] ([License MIT][LIC01]). Wheels are
-  modified by [RafaCouto](https://github.com/rafacouto/3d-models/tree/master/escornabot/stronger-wheel)
+- Right wheel [wheel-r.stl](/rafacouto/3d-escornabot/brivoi-compactus/wheel-r.stl)
+
+  - Original design by [Xoan Sampaiño][XOA01] ([License MIT][LIC01]). Wheels are modified by [RafaCouto](https://github.com/rafacouto/3d-models/tree/master/escornabot/stronger-wheel)
 
 
 ## License
