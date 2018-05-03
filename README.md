@@ -1,5 +1,7 @@
 
-## Pi GAMESP Robot(completo.png)
+## Pi GAMESP Robot
+
+![](completo.png)
 
 ## Catalog
 
@@ -17,7 +19,7 @@
 
 - Right wheel [wheel-r.stl](/rafacouto/3d-escornabot/brivoi-compactus/wheel-r.stl)
 
-  - Original design by [Xoan Sampaiño][XOA01] ([License MIT][LIC01]). Wheels are modified by [RafaCouto](https://github.com/rafacouto/3d-models/tree/master/escornabot/stronger-wheel)
+  - Original design by [Xoan Sampaiño][XOA01]. Wheels are modified by [RafaCouto](https://github.com/rafacouto/3d-models/tree/master/escornabot/stronger-wheel)
 
 
 ## License
