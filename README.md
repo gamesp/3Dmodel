@@ -15,9 +15,9 @@
 
 ## Wheels
 
-- Left wheel [wheel-l.stl](/rafacouto/3d-escornabot/brivoi-compactus/wheel-l.stl)
+- Left wheel [wheel-l.stl](https://github.com/rafacouto/3d-escornabot/blob/master/brivoi-compactus/wheel-l.stl)
 
-- Right wheel [wheel-r.stl](/rafacouto/3d-escornabot/brivoi-compactus/wheel-r.stl)
+- Right wheel [wheel-r.stl](https://github.com/rafacouto/3d-escornabot/blob/master/brivoi-compactus/wheel-r.stl)
 
   - Original design by [Xoan Sampaiño][XOA01]. Wheels are modified by [RafaCouto](https://github.com/rafacouto/3d-models/tree/master/escornabot/stronger-wheel)
 
